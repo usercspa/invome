@@ -3,3 +3,51 @@
   border-radius: 25px;
   box-shadow: 2px;
 }
+.colour {
+  background-color: #ef4e7b;
+  border-color: #ef4e7b;
+  font-weight: 800;
+}
+.cutting {
+  background-color: #07b39b;
+  border-color: #07b39b;
+  font-weight: 800;
+}
+.pattern {
+  background-color: #1098ad;
+  border-color: #1098ad;
+  font-weight: 800;
+}
+.material {
+  background-color: #f79533;
+  border-color: #f79533;
+  font-weight: 800;
+}
+.nameOfDress {
+  font-weight: bold;
+  font-size: 30px;
+}
+.submitbtn {
+  font-weight: 800;
+}
+
+.dropdowns {
+  align-items: center;
+  display: block;
+  justify-content: center;
+}
+
+.colourDrop {
+  display: inline-block;
+}
+.materialDrop {
+  display: inline-block;
+}
+
+.patternDrop {
+  display: inline-block;
+}
+
+.cuttingDrop {
+  display: inline-block;
+}
