@@ -1,7 +1,9 @@
 .block {
   background-color: white;
+
   border-radius: 25px;
   box-shadow: 2px;
+  width: 80%;
 }
 .colour {
   background-color: #ef4e7b;
@@ -50,4 +52,22 @@
 
 .cuttingDrop {
   display: inline-block;
+}
+
+.AT1,
+.AT2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Heading {
+  color: #ef4e7b;
+  font-size: 45px;
+  font-weight: bold;
+  margin: auto;
 }
